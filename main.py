@@ -1,6 +1,6 @@
 def main():
     float_variable = 5.0
-    integer_variable = 55
+    integer_variable = 56
 
     print(f'the sum of {float_variable} and {integer_variable} is: {float_variable + integer_variable}')
     print(f'the sum of {float_variable} and {integer_variable} '
